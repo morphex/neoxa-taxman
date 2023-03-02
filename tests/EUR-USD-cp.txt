@@ -1,0 +1,364 @@
+2022-12-30	1.0666	Normal value (A)
+2022-12-29	1.0649	Normal value (A)
+2022-12-28	1.0640	Normal value (A)
+2022-12-27	1.0624	Normal value (A)
+2022-12-26	 	 
+2022-12-25	 	 
+2022-12-24	 	 
+2022-12-23	1.0622	Normal value (A)
+2022-12-22	1.0633	Normal value (A)
+2022-12-21	1.0636	Normal value (A)
+2022-12-20	1.0599	Normal value (A)
+2022-12-19	1.0598	Normal value (A)
+2022-12-18	 	 
+2022-12-17	 	 
+2022-12-16	1.0619	Normal value (A)
+2022-12-15	1.0621	Normal value (A)
+2022-12-14	1.0649	Normal value (A)
+2022-12-13	1.0545	Normal value (A)
+2022-12-12	1.0562	Normal value (A)
+2022-12-11	 	 
+2022-12-10	 	 
+2022-12-09	1.0559	Normal value (A)
+2022-12-08	1.0519	Normal value (A)
+2022-12-07	1.0529	Normal value (A)
+2022-12-06	1.0516	Normal value (A)
+2022-12-05	1.0587	Normal value (A)
+2022-12-04	 	 
+2022-12-03	 	 
+2022-12-02	1.0538	Normal value (A)
+2022-12-01	1.0454	Normal value (A)
+2022-11-30	1.0376	Normal value (A)
+2022-11-29	1.0366	Normal value (A)
+2022-11-28	1.0463	Normal value (A)
+2022-11-27	 	 
+2022-11-26	 	 
+2022-11-25	1.0375	Normal value (A)
+2022-11-24	1.0413	Normal value (A)
+2022-11-23	1.0325	Normal value (A)
+2022-11-22	1.0274	Normal value (A)
+2022-11-21	1.0246	Normal value (A)
+2022-11-20	 	 
+2022-11-19	 	 
+2022-11-18	1.0366	Normal value (A)
+2022-11-17	1.0319	Normal value (A)
+2022-11-16	1.0412	Normal value (A)
+2022-11-15	1.0404	Normal value (A)
+2022-11-14	1.0319	Normal value (A)
+2022-11-13	 	 
+2022-11-12	 	 
+2022-11-11	1.0308	Normal value (A)
+2022-11-10	0.9954	Normal value (A)
+2022-11-09	1.0039	Normal value (A)
+2022-11-08	0.9996	Normal value (A)
+2022-11-07	0.9993	Normal value (A)
+2022-11-06	 	 
+2022-11-05	 	 
+2022-11-04	0.9872	Normal value (A)
+2022-11-03	0.9753	Normal value (A)
+2022-11-02	0.9908	Normal value (A)
+2022-11-01	0.9947	Normal value (A)
+2022-10-31	0.9914	Normal value (A)
+2022-10-30	 	 
+2022-10-29	 	 
+2022-10-28	0.9951	Normal value (A)
+2022-10-27	1.0037	Normal value (A)
+2022-10-26	1.0023	Normal value (A)
+2022-10-25	0.9861	Normal value (A)
+2022-10-24	0.9851	Normal value (A)
+2022-10-23	 	 
+2022-10-22	 	 
+2022-10-21	0.9730	Normal value (A)
+2022-10-20	0.9811	Normal value (A)
+2022-10-19	0.9778	Normal value (A)
+2022-10-18	0.9835	Normal value (A)
+2022-10-17	0.9739	Normal value (A)
+2022-10-16	 	 
+2022-10-15	 	 
+2022-10-14	0.9717	Normal value (A)
+2022-10-13	0.9739	Normal value (A)
+2022-10-12	0.9706	Normal value (A)
+2022-10-11	0.9723	Normal value (A)
+2022-10-10	0.9697	Normal value (A)
+2022-10-09	 	 
+2022-10-08	 	 
+2022-10-07	0.9797	Normal value (A)
+2022-10-06	0.9860	Normal value (A)
+2022-10-05	0.9915	Normal value (A)
+2022-10-04	0.9891	Normal value (A)
+2022-10-03	0.9764	Normal value (A)
+2022-10-02	 	 
+2022-10-01	 	 
+2022-09-30	0.9748	Normal value (A)
+2022-09-29	0.9706	Normal value (A)
+2022-09-28	0.9565	Normal value (A)
+2022-09-27	0.9644	Normal value (A)
+2022-09-26	0.9646	Normal value (A)
+2022-09-25	 	 
+2022-09-24	 	 
+2022-09-23	0.9754	Normal value (A)
+2022-09-22	0.9884	Normal value (A)
+2022-09-21	0.9906	Normal value (A)
+2022-09-20	0.9986	Normal value (A)
+2022-09-19	0.9990	Normal value (A)
+2022-09-18	 	 
+2022-09-17	 	 
+2022-09-16	0.9954	Normal value (A)
+2022-09-15	0.9992	Normal value (A)
+2022-09-14	0.9990	Normal value (A)
+2022-09-13	1.0175	Normal value (A)
+2022-09-12	1.0155	Normal value (A)
+2022-09-11	 	 
+2022-09-10	 	 
+2022-09-09	1.0049	Normal value (A)
+2022-09-08	1.0009	Normal value (A)
+2022-09-07	0.9885	Normal value (A)
+2022-09-06	0.9928	Normal value (A)
+2022-09-05	0.9920	Normal value (A)
+2022-09-04	 	 
+2022-09-03	 	 
+2022-09-02	0.9993	Normal value (A)
+2022-09-01	1.0004	Normal value (A)
+2022-08-31	1.0000	Normal value (A)
+2022-08-30	1.0034	Normal value (A)
+2022-08-29	0.9986	Normal value (A)
+2022-08-28	 	 
+2022-08-27	 	 
+2022-08-26	1.0007	Normal value (A)
+2022-08-25	0.9970	Normal value (A)
+2022-08-24	0.9934	Normal value (A)
+2022-08-23	0.9927	Normal value (A)
+2022-08-22	1.0001	Normal value (A)
+2022-08-21	 	 
+2022-08-20	 	 
+2022-08-19	1.0054	Normal value (A)
+2022-08-18	1.0178	Normal value (A)
+2022-08-17	1.0164	Normal value (A)
+2022-08-16	1.0131	Normal value (A)
+2022-08-15	1.0195	Normal value (A)
+2022-08-14	 	 
+2022-08-13	 	 
+2022-08-12	1.0285	Normal value (A)
+2022-08-11	1.0338	Normal value (A)
+2022-08-10	1.0252	Normal value (A)
+2022-08-09	1.0234	Normal value (A)
+2022-08-08	1.0199	Normal value (A)
+2022-08-07	 	 
+2022-08-06	 	 
+2022-08-05	1.0233	Normal value (A)
+2022-08-04	1.0181	Normal value (A)
+2022-08-03	1.0194	Normal value (A)
+2022-08-02	1.0224	Normal value (A)
+2022-08-01	1.0233	Normal value (A)
+2022-07-31	 	 
+2022-07-30	 	 
+2022-07-29	1.0198	Normal value (A)
+2022-07-28	1.0122	Normal value (A)
+2022-07-27	1.0152	Normal value (A)
+2022-07-26	1.0124	Normal value (A)
+2022-07-25	1.0236	Normal value (A)
+2022-07-24	 	 
+2022-07-23	 	 
+2022-07-22	1.0190	Normal value (A)
+2022-07-21	1.0199	Normal value (A)
+2022-07-20	1.0199	Normal value (A)
+2022-07-19	1.0245	Normal value (A)
+2022-07-18	1.0131	Normal value (A)
+2022-07-17	 	 
+2022-07-16	 	 
+2022-07-15	1.0059	Normal value (A)
+2022-07-14	1.0005	Normal value (A)
+2022-07-13	1.0067	Normal value (A)
+2022-07-12	1.0042	Normal value (A)
+2022-07-11	1.0098	Normal value (A)
+2022-07-10	 	 
+2022-07-09	 	 
+2022-07-08	1.0163	Normal value (A)
+2022-07-07	1.0180	Normal value (A)
+2022-07-06	1.0177	Normal value (A)
+2022-07-05	1.0290	Normal value (A)
+2022-07-04	1.0455	Normal value (A)
+2022-07-03	 	 
+2022-07-02	 	 
+2022-07-01	1.0425	Normal value (A)
+2022-06-30	1.0387	Normal value (A)
+2022-06-29	1.0517	Normal value (A)
+2022-06-28	1.0561	Normal value (A)
+2022-06-27	1.0572	Normal value (A)
+2022-06-26	 	 
+2022-06-25	 	 
+2022-06-24	1.0524	Normal value (A)
+2022-06-23	1.0493	Normal value (A)
+2022-06-22	1.0521	Normal value (A)
+2022-06-21	1.0550	Normal value (A)
+2022-06-20	1.0517	Normal value (A)
+2022-06-19	 	 
+2022-06-18	 	 
+2022-06-17	1.0486	Normal value (A)
+2022-06-16	1.0400	Normal value (A)
+2022-06-15	1.0431	Normal value (A)
+2022-06-14	1.0452	Normal value (A)
+2022-06-13	1.0455	Normal value (A)
+2022-06-12	 	 
+2022-06-11	 	 
+2022-06-10	1.0578	Normal value (A)
+2022-06-09	1.0743	Normal value (A)
+2022-06-08	1.0739	Normal value (A)
+2022-06-07	1.0662	Normal value (A)
+2022-06-06	1.0726	Normal value (A)
+2022-06-05	 	 
+2022-06-04	 	 
+2022-06-03	1.0730	Normal value (A)
+2022-06-02	1.0692	Normal value (A)
+2022-06-01	1.0712	Normal value (A)
+2022-05-31	1.0713	Normal value (A)
+2022-05-30	1.0764	Normal value (A)
+2022-05-29	 	 
+2022-05-28	 	 
+2022-05-27	1.0722	Normal value (A)
+2022-05-26	1.0697	Normal value (A)
+2022-05-25	1.0656	Normal value (A)
+2022-05-24	1.0720	Normal value (A)
+2022-05-23	1.0659	Normal value (A)
+2022-05-22	 	 
+2022-05-21	 	 
+2022-05-20	1.0577	Normal value (A)
+2022-05-19	1.0525	Normal value (A)
+2022-05-18	1.0523	Normal value (A)
+2022-05-17	1.0541	Normal value (A)
+2022-05-16	1.0422	Normal value (A)
+2022-05-15	 	 
+2022-05-14	 	 
+2022-05-13	1.0385	Normal value (A)
+2022-05-12	1.0408	Normal value (A)
+2022-05-11	1.0553	Normal value (A)
+2022-05-10	1.0554	Normal value (A)
+2022-05-09	1.0559	Normal value (A)
+2022-05-08	 	 
+2022-05-07	 	 
+2022-05-06	1.0570	Normal value (A)
+2022-05-05	1.0568	Normal value (A)
+2022-05-04	1.0531	Normal value (A)
+2022-05-03	1.0556	Normal value (A)
+2022-05-02	1.0524	Normal value (A)
+2022-05-01	 	 
+2022-04-30	 	 
+2022-04-29	1.0540	Normal value (A)
+2022-04-28	1.0485	Normal value (A)
+2022-04-27	1.0583	Normal value (A)
+2022-04-26	1.0674	Normal value (A)
+2022-04-25	1.0746	Normal value (A)
+2022-04-24	 	 
+2022-04-23	 	 
+2022-04-22	1.0817	Normal value (A)
+2022-04-21	1.0887	Normal value (A)
+2022-04-20	1.0830	Normal value (A)
+2022-04-19	1.0803	Normal value (A)
+2022-04-18	 	 
+2022-04-17	 	 
+2022-04-16	 	 
+2022-04-15	 	 
+2022-04-14	1.0878	Normal value (A)
+2022-04-13	1.0826	Normal value (A)
+2022-04-12	1.0861	Normal value (A)
+2022-04-11	1.0900	Normal value (A)
+2022-04-10	 	 
+2022-04-09	 	 
+2022-04-08	1.0861	Normal value (A)
+2022-04-07	1.0916	Normal value (A)
+2022-04-06	1.0923	Normal value (A)
+2022-04-05	1.0969	Normal value (A)
+2022-04-04	1.1005	Normal value (A)
+2022-04-03	 	 
+2022-04-02	 	 
+2022-04-01	1.1052	Normal value (A)
+2022-03-31	1.1101	Normal value (A)
+2022-03-30	1.1126	Normal value (A)
+2022-03-29	1.1085	Normal value (A)
+2022-03-28	1.0966	Normal value (A)
+2022-03-27	 	 
+2022-03-26	 	 
+2022-03-25	1.1002	Normal value (A)
+2022-03-24	1.0978	Normal value (A)
+2022-03-23	1.0985	Normal value (A)
+2022-03-22	1.1024	Normal value (A)
+2022-03-21	1.1038	Normal value (A)
+2022-03-20	 	 
+2022-03-19	 	 
+2022-03-18	1.1008	Normal value (A)
+2022-03-17	1.1051	Normal value (A)
+2022-03-16	1.0994	Normal value (A)
+2022-03-15	1.0991	Normal value (A)
+2022-03-14	1.0960	Normal value (A)
+2022-03-13	 	 
+2022-03-12	 	 
+2022-03-11	1.0990	Normal value (A)
+2022-03-10	1.1084	Normal value (A)
+2022-03-09	1.0993	Normal value (A)
+2022-03-08	1.0892	Normal value (A)
+2022-03-07	1.0895	Normal value (A)
+2022-03-06	 	 
+2022-03-05	 	 
+2022-03-04	1.0929	Normal value (A)
+2022-03-03	1.1076	Normal value (A)
+2022-03-02	1.1106	Normal value (A)
+2022-03-01	1.1162	Normal value (A)
+2022-02-28	1.1199	Normal value (A)
+2022-02-27	 	 
+2022-02-26	 	 
+2022-02-25	1.1216	Normal value (A)
+2022-02-24	1.1163	Normal value (A)
+2022-02-23	1.1344	Normal value (A)
+2022-02-22	1.1342	Normal value (A)
+2022-02-21	1.1338	Normal value (A)
+2022-02-20	 	 
+2022-02-19	 	 
+2022-02-18	1.1354	Normal value (A)
+2022-02-17	1.1370	Normal value (A)
+2022-02-16	1.1372	Normal value (A)
+2022-02-15	1.1345	Normal value (A)
+2022-02-14	1.1316	Normal value (A)
+2022-02-13	 	 
+2022-02-12	 	 
+2022-02-11	1.1417	Normal value (A)
+2022-02-10	1.1439	Normal value (A)
+2022-02-09	1.1435	Normal value (A)
+2022-02-08	1.1408	Normal value (A)
+2022-02-07	1.1447	Normal value (A)
+2022-02-06	 	 
+2022-02-05	 	 
+2022-02-04	1.1464	Normal value (A)
+2022-02-03	1.1286	Normal value (A)
+2022-02-02	1.1323	Normal value (A)
+2022-02-01	1.1260	Normal value (A)
+2022-01-31	1.1156	Normal value (A)
+2022-01-30	 	 
+2022-01-29	 	 
+2022-01-28	1.1138	Normal value (A)
+2022-01-27	1.1160	Normal value (A)
+2022-01-26	1.1277	Normal value (A)
+2022-01-25	1.1268	Normal value (A)
+2022-01-24	1.1304	Normal value (A)
+2022-01-23	 	 
+2022-01-22	 	 
+2022-01-21	1.1348	Normal value (A)
+2022-01-20	1.1338	Normal value (A)
+2022-01-19	1.1345	Normal value (A)
+2022-01-18	1.1367	Normal value (A)
+2022-01-17	1.1403	Normal value (A)
+2022-01-16	 	 
+2022-01-15	 	 
+2022-01-14	1.1447	Normal value (A)
+2022-01-13	1.1463	Normal value (A)
+2022-01-12	1.1370	Normal value (A)
+2022-01-11	1.1336	Normal value (A)
+2022-01-10	1.1318	Normal value (A)
+2022-01-09	 	 
+2022-01-08	 	 
+2022-01-07	1.1298	Normal value (A)
+2022-01-06	1.1315	Normal value (A)
+2022-01-05	1.1319	Normal value (A)
+2022-01-04	1.1279	Normal value (A)
+2022-01-03	1.1355	Normal value (A)
+
+ 

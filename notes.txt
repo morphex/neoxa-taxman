@@ -1,0 +1,3 @@
+To transform SDW ECB data, copy/paste from website EXR.D.USD.EUR.SP00.A
+
+tools/transform_ecb.py tests/EUR-USD-cp.txt > tests/USD-EUR.csv
